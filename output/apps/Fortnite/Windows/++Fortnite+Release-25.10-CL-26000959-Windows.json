@@ -1,0 +1,14 @@
+{
+   "appName": "Fortnite",
+   "labelName": "Live-Windows",
+   "buildVersion": "++Fortnite+Release-25.10-CL-26000959-Windows",
+   "hash": "99eac6332986683a21ddc82c22a9ac05",
+   "manifest": {
+      "id": null,
+      "lastModified": "2023-06-20T06:22:40.000Z",
+      "source": null
+   },
+   "metadata": {
+      "installationPoolId": "FortniteInstallationPool"
+   }
+}
