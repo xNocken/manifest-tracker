@@ -46,6 +46,7 @@ const main = async () => {
 
         await fsp.writeFile(metaFileName, JSON.stringify(result.data.meta, null, 3));
         await fsp.writeFile(manifestFileName, bin);
+        await fsp.writeFile(`${baseDir}/current.json`, JSON.stringify(result.data.meta, null, 3));
         await fsp.writeFile(`${manifestsFolder}/${result.data.meta.manifest.id}.json`, JSON.stringify(result.data.meta, null, 3));
         await fsp.writeFile(`${manifestsFolder}/${result.data.meta.manifest.id}.manifest`, bin);
 
