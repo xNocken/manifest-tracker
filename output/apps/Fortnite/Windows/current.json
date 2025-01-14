@@ -1,11 +1,11 @@
 {
    "appName": "Fortnite",
    "labelName": "Live-Windows",
-   "buildVersion": "++Fortnite+Release-33.11-CL-38773622-Windows",
-   "hash": "75e09d8e33c72aed67283f524503224407b602d6",
+   "buildVersion": "++Fortnite+Release-33.20-CL-39082670-Windows",
+   "hash": "d9f5e78433412fe03caf9af2c01194de134ecf7f",
    "manifest": {
-      "id": "ffxgQGm-7r1B87BTbUmgZw7IMCSnIw",
-      "lastModified": "2024-12-13T07:04:45.000Z",
+      "id": "a_zQLEFyj3g3HQHZ5kWOeY2HEhLvsA",
+      "lastModified": "2025-01-09T20:33:00.000Z",
       "source": "epicgames-download1.akamaized.net"
    },
    "metadata": {

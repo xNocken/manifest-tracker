@@ -1,0 +1,12 @@
+{
+   "appName": "FortniteContentBuilds",
+   "labelName": "Live-Windows",
+   "buildVersion": "++Fortnite+Release-33.20-CL-39082670-Windows",
+   "hash": "bb48b017d9a33b46989b06a4730dfd2eec6b909d",
+   "manifest": {
+      "id": "5EoHMzhTcocfEGU9WESkn8oQi0wwAg",
+      "lastModified": "2025-01-09T19:29:32.000Z",
+      "source": "epicgames-download1.akamaized.net"
+   },
+   "metadata": {}
+}
